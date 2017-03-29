@@ -1,0 +1,1266 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"active"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"nav",
+				"navbarToggle"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"co",
+				"comingSoon"
+			],
+			[
+				"bac",
+				"backToTop"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"cu",
+				"currentProjectClassList"
+			],
+			[
+				"c",
+				"currentProject"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pro",
+				"projectClassList"
+			],
+			[
+				"pr",
+				"projectClassList"
+			],
+			[
+				"s",
+				"showMe"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"p",
+				"portfolio"
+			],
+			[
+				"id",
+				"idName"
+			],
+			[
+				"t",
+				"target"
+			],
+			[
+				"po",
+				"portfolio"
+			],
+			[
+				"cur",
+				"cur-d	cursor: default;"
+			],
+			[
+				"br",
+				"brightness"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"a",
+				"about"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"w",
+				"welcome"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"dr",
+				"dropdown"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"n",
+				"nth-child"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"doc",
+				"doc"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"car",
+				"carouselImageBox"
+			],
+			[
+				"add",
+				"addHandler"
+			],
+			[
+				"do",
+				"doc"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"o",
+				"objectives"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"new",
+				"newWindow"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ne",
+				"newWindow"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"js",
+				"jsonClass"
+			],
+			[
+				"j",
+				"jsonClassElements"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"jav",
+				"javascriptClassElements"
+			],
+			[
+				"ja",
+				"javascriptClassElements"
+			],
+			[
+				"h",
+				"htmlClassElements"
+			],
+			[
+				"de",
+				"displayedElements"
+			],
+			[
+				"css",
+				"cssClassElements"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"tr",
+				"targetIndex"
+			],
+			[
+				"crea",
+				"createDocumentFragment"
+			],
+			[
+				"C",
+				"CSS"
+			],
+			[
+				"J",
+				"JavaScript"
+			],
+			[
+				"lea",
+				"learningSpan"
+			],
+			[
+				"dep",
+				"depthSpan"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"met",
+				"metaDataFragment"
+			],
+			[
+				"su",
+				"subLevelsFragment"
+			],
+			[
+				"tar",
+				"targetIndex"
+			],
+			[
+				"subLe",
+				"subLevelsPara"
+			],
+			[
+				"res",
+				"responseArray"
+			],
+			[
+				"dat",
+				"dataDiv"
+			],
+			[
+				"da",
+				"dataDiv"
+			],
+			[
+				"sub",
+				"subLevelsDiv"
+			],
+			[
+				"cr",
+				"createTextNode"
+			],
+			[
+				"re",
+				"responseArray"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"it",
+				"it-areas"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"wra",
+				"wrapper3"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"hexa",
+				"hexagon-image-md"
+			],
+			[
+				"no",
+				"non-profit"
+			],
+			[
+				"hsl",
+				"hslText"
+			],
+			[
+				"ran",
+				"randomSat"
+			],
+			[
+				"url",
+				"url_adjectives"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"ad",
+				"adjectiveDiv"
+			],
+			[
+				"ra",
+				"randomFont"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"rand",
+				"randomAdjective"
+			],
+			[
+				"adj",
+				"adjectiveIndex"
+			],
+			[
+				"sti",
+				"stickyObj"
+			],
+			[
+				"ser",
+				"services_box"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"act",
+				"action_text"
+			],
+			[
+				"cl",
+				"clients"
+			],
+			[
+				"cli",
+				"clients"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"tw",
+				"tweetsSelection"
+			],
+			[
+				"positio",
+				"positionOptions"
+			],
+			[
+				"dis",
+				"displayError"
+			],
+			[
+				"nu",
+				"numORString2"
+			],
+			[
+				"us",
+				"userText"
+			],
+			[
+				"user",
+				"userSubject"
+			],
+			[
+				"tea",
+				"team_box"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"google",
+				"google_map"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"navb",
+				"navbar-collapse"
+			],
+			[
+				"lo",
+				"logo-small"
+			],
+			[
+				"lg",
+				"logo-small"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"top",
+				"top_button"
+			],
+			[
+				"R",
+				"Responsive"
+			],
+			[
+				"la",
+				"latest"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 16079,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/custom.css",
+			"settings":
+			{
+				"buffer_size": 16160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/custom.js",
+			"settings":
+			{
+				"buffer_size": 5298,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/jquery.viewportchecker.min.js",
+			"settings":
+			{
+				"buffer_size": 2776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/jquery.counterup.min.js",
+			"settings":
+			{
+				"buffer_size": 1067,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/jquery.easing.min.js",
+			"settings":
+			{
+				"buffer_size": 5554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/scrolling-nav.js",
+			"settings":
+			{
+				"buffer_size": 705,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/waypoints.js",
+			"settings":
+			{
+				"buffer_size": 8009,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/amit1235813/Documents/htdocs/kk_cold_storage/website/js/scrolling-nav.js",
+		"/Users/amit1235813/Documents/htdocs/boby_pinz/website/boby_pinz.sublime-project",
+		"/Users/amit1235813/Documents/htdocs/vidhaana/website/vidhaana.sublime-project",
+		"/Users/amit1235813/Documents/htdocs/vidhaana/website/css/bootstrap.css",
+		"/Users/amit1235813/Documents/htdocs/git_essential_training/delete2.txt",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/dropDowns/animated/index.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/dropDowns/falling down animation/custom.css",
+		"/Users/amit1235813/Documents/htdocs/boby pinz/SimpleDropDownEffects/css/demo.css",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/repositories learned from/CSS3ContentTabs/css/style3.css",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/repositories learned from/CSS3ContentTabs/index3.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/repositories learned from/CSS3ContentTabs/index.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/repositories learned from/CSS3ContentTabs/css/style.css",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/repositories learned from/CSS3ContentTabs/index2.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/repositories learned from/CSS3ContentTabs/css/style2.css",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/carousel/image/customImage.js",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/carousel/customBase.css",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/carousel/carouselBase.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/carousel/customBase.js",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/carousel/custom.js",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/carousel/custom.css",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/carousel/index.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/buttonSwitches/custom.css",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/buttonSwitches/index.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/buttonSwitches/buttonSwitches.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/carousel.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/buttonSwitches.html",
+		"/Users/amit1235813/Documents/htdocs/Items and Effects/js/bootstrap.js",
+		"/Users/amit1235813/Documents/htdocs/learningtocode/3.3.html",
+		"/Users/amit1235813/Documents/htdocs/kk_cold_storage/website/css/custom.css",
+		"/Users/amit1235813/Documents/htdocs/arth/website_deployed/css/bootstrap.css",
+		"/Users/amit1235813/Documents/htdocs/arth/website/index.html",
+		"/Users/amit1235813/Documents/htdocs/arth/index.html",
+		"/Users/amit1235813/Documents/htdocs/arth/ittraining/index.html",
+		"/Users/amit1235813/Documents/htdocs/arth/himnaturecare/index.html",
+		"/Users/amit1235813/Documents/htdocs/arth/careercounselling/index.html",
+		"/Users/amit1235813/Documents/htdocs/arth/financialandlegalservices/index.html",
+		"/Users/amit1235813/Documents/htdocs/arth/css/custom.css",
+		"/Users/amit1235813/Documents/htdocs/arth/arth_consultancy.sublime-project",
+		"/Users/amit1235813/Documents/htdocs/arth/js/google_map.js",
+		"/Users/amit1235813/Documents/htdocs/arth/js/custom.js",
+		"/Users/amit1235813/Documents/htdocs/arth/js/bootstrap.js",
+		"/Users/amit1235813/Documents/htdocs/arth/test.html",
+		"/Users/amit1235813/Documents/htdocs/arth/js/google_map2.js",
+		"/Users/amit1235813/Documents/htdocs/arth/index2.html",
+		"/Users/amit1235813/Documents/htdocs/Professional javascript for web developers 3rd edition - Nicholas Zakas/js/custom.js",
+		"/Users/amit1235813/Documents/htdocs/Professional javascript for web developers 3rd edition - Nicholas Zakas/index.html",
+		"/Users/amit1235813/Documents/htdocs/kk_cold_storage/website/progress.numbers",
+		"/Users/amit1235813/Documents/htdocs/adjectives/data/adjectives.json",
+		"/Users/amit1235813/Documents/htdocs/adjectives/css/custom.css",
+		"/Users/amit1235813/Documents/htdocs/adjectives/data/fonts.json",
+		"/Users/amit1235813/Documents/htdocs/adjectives/js/custom.js",
+		"/Users/amit1235813/Documents/htdocs/adjectives/index.html",
+		"/Users/amit1235813/Documents/htdocs/adjectives/data/data.json",
+		"/Users/amit1235813/Documents/htdocs/adjectives/data/colors.json",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter6/mightygumball.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter6/mightygumball.css",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/css/fractal.css",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter10/Mandel/workerlib.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter10/Mandel/worker.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter10/Mandel/mandellib.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter10/Mandel/fractal.css",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/js/manager.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/js/localstorage.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter10/manager.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/css/notetoself.css",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter9/notetoself.css",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter9/notetoself.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/css/webvilletv.css",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/js/webvilletv.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/js/canvas.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/css/mightygumball.css",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/js/mightygumball.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/js/custom.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/css/myLoc.css",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/js/myLoc.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/data/data.json",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter5/myLoc.css",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/js/playlist_store.js",
+		"/Users/amit1235813/Downloads/typo3_src-7.6.11/README.md",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/js/playlist.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter3/playlist.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter3/playlist_store.js",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter3/playlist.html",
+		"/Users/amit1235813/Documents/htdocs/head first html5 programming tutorial/Head-First-HTML5-master/chapter2/phraseomatic.html",
+		"/Users/amit1235813/Documents/htdocs/learning_css/doc1.html",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/css/bootstrap.css",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/css/scrolling-nav.css",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/js/jquery.easing.min.js",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/js/scrolling-nav.js",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/js/waypoints.js",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/js/custom.js",
+		"/Users/amit1235813/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/amit1235813/Library/Application Support/Sublime Text 2/Packages/Package Control/readme.md",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/fonts/glyphicons-halflings-regular.svg",
+		"/Users/amit1235813/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/amit1235813/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/amit1235813/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/js/jquery_2.2.4.js",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/css/custom_large_size.css",
+		"/Users/amit1235813/Documents/htdocs/enigma_mockup/css/custom_small_size.css",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_0/js/google_map_api.js",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_0/js/bootstrap.js",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_0/js/custom.js",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_0/js/jquery_2.2.4.js",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_0/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_0/js/respond.js",
+		"/Users/amit1235813/Desktop/project/index.html",
+		"/Users/amit1235813/Desktop/project/untitled.html",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_0/js/jQuery-3.1.0-min.js",
+		"/Users/amit1235813/Documents/fiverr_resources/website/kk_enterprises/code/enigma_resources/deothemes.com/envato/enigma/html/js/plugins.js",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_0/index.html",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_0/css/custom.css",
+		"/Applications/MAMP/htdocs/tutorial_bootstrap/tutorial_bootstrap.sublime-project",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_fork2/css/custom.css",
+		"/Applications/MAMP/htdocs/enigma_mockup/enigma_mockup_fork2/index.html",
+		"/Users/amit1235813/Google Drive/fiverr_resources/website/kk_enterprises/code/enigma_resources/deothemes.com/envato/enigma/html/index-owl-slider.html",
+		"/Users/amit1235813/Desktop/4_4_person",
+		"/Users/amit1235813/Desktop/3.3 stdin.js",
+		"/Users/amit1235813/Desktop/stdin.js",
+		"/Applications/MAMP/htdocs/project_bootstrap/homepage.html",
+		"/Applications/MAMP/htdocs/igfollower.fr/index.html",
+		"/Users/amit1235813/Google Drive/fiverr_users/web_adriannikoszews/igfollower.fr/_downloads.html",
+		"/Users/amit1235813/Google Drive/fiverr_users/web_adriannikoszews/igfollower.fr/assets/gems.png",
+		"/Users/amit1235813/Google Drive/fiverr_users/web_adriannikoszews/igfollower.fr/fonts/cx942d-nsh2l8.html",
+		"/Users/amit1235813/Google Drive/fiverr_users/web_adriannikoszews/igfollower.fr/fonts/cx942d-4-nsh2l8.html",
+		"/Users/amit1235813/Google Drive/fiverr_users/web_adriannikoszews/igfollower.fr/_00.txt",
+		"/Applications/MAMP/htdocs/wp_learning_child_themes/wp-content/themes/popper-child/style.css",
+		"/Applications/MAMP/htdocs/project_bootstrap/services.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page-scroll",
+			"nam",
+			"padding",
+			"developer",
+			"padd",
+			"red",
+			"nav",
+			"box",
+			"togg",
+			"z-inde",
+			"font-s",
+			"none",
+			".col-sm-4",
+			"img#comingSoon",
+			"img.logoImage",
+			"style",
+			"eventu",
+			"rgba",
+			"border",
+			"border-bott",
+			"border-ott",
+			"icon-bar",
+			"inver",
+			"icon-bar",
+			"margin",
+			"h5",
+			"15px",
+			"15",
+			"com",
+			"0.1",
+			"0.3",
+			"all",
+			"all 0.5s",
+			"all 1s",
+			"1",
+			"z-in",
+			"cursor",
+			"z-inde",
+			"ccc",
+			"#",
+			"rgb",
+			"rgba",
+			"#",
+			"check",
+			"z-in",
+			"clearf",
+			"clear",
+			"fleft",
+			"dropd",
+			"hover",
+			"after",
+			"box-sh",
+			"checked:hov",
+			"clear",
+			"box-sh",
+			"box-sa",
+			"box-sha",
+			"z-index",
+			"width",
+			"page",
+			"after",
+			"opac",
+			"button",
+			"moz",
+			"data-target",
+			"data-ride",
+			".tagl",
+			"#",
+			"#nature",
+			"vis",
+			"cons",
+			"document",
+			"contact",
+			"font",
+			"name",
+			"subje",
+			"e-",
+			"name",
+			"details_sub",
+			"amp",
+			"deg",
+			"amp",
+			"main",
+			"address",
+			"wrapper ",
+			"wrapper",
+			"wrap",
+			"img",
+			"icon",
+			"cli",
+			"200",
+			"200p",
+			"200px",
+			"200",
+			"conta",
+			"-2",
+			"md",
+			"nature",
+			"finance",
+			"xs",
+			"lg",
+			"test",
+			"mapo",
+			"marker",
+			"-32",
+			"300",
+			"sm",
+			"objectives",
+			"index",
+			"”",
+			"“",
+			"request",
+			"url",
+			"adjectiveObject",
+			"process",
+			"processF",
+			"process",
+			"geta",
+			"query",
+			"\n",
+			"serv",
+			"h4",
+			"h3",
+			"href",
+			"max",
+			"-96px",
+			"192",
+			"288"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"li",
+			"0.4",
+			"0.3",
+			"0.2",
+			"0.4",
+			"opacity",
+			"all 0.3s",
+			"all 0.5s",
+			"b7c6e1",
+			"2",
+			"b7c6e1",
+			"doc",
+			"div",
+			"",
+			"div",
+			"lg",
+			"career",
+			"sm",
+			"md",
+			"lg",
+			"testimonials",
+			"\"",
+			"request_adjectives",
+			"url_adjectives",
+			"responseObject",
+			"h5",
+			"h4",
+			"0",
+			"96",
+			"144",
+			"services",
+			"h3",
+			"rental",
+			"retail",
+			"selling",
+			"storage",
+			"kk",
+			"08d974",
+			"xs",
+			"h5",
+			".navbar-nav",
+			"4",
+			"96",
+			"100",
+			"192",
+			"h5",
+			"md",
+			"xs",
+			"social",
+			"",
+			"social",
+			"section",
+			"centered_text",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 16079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15337,
+								15337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5166.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/custom.css",
+					"settings":
+					{
+						"buffer_size": 16160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2315,
+								2345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1959.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/custom.js",
+					"settings":
+					{
+						"buffer_size": 5298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								919,
+								919
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 149.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/jquery.viewportchecker.min.js",
+					"settings":
+					{
+						"buffer_size": 2776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/jquery.counterup.min.js",
+					"settings":
+					{
+						"buffer_size": 1067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 2784.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/jquery.easing.min.js",
+					"settings":
+					{
+						"buffer_size": 5554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/scrolling-nav.js",
+					"settings":
+					{
+						"buffer_size": 705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/waypoints.js",
+					"settings":
+					{
+						"buffer_size": 8009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"css/custom.css"
+			],
+			[
+				"",
+				"js/jquery_2.2.4.js"
+			],
+			[
+				"ind",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/amit1235813/Google Drive/fiverr_users/web_adriannikoszews/insta_followers/insta_followers.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true
+}

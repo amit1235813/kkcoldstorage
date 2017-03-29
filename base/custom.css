@@ -1,0 +1,183 @@
+/*  Custom box model */
+*,
+*:after,
+*:before {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/* main */
+body {
+	font-family: "Montserrat", sans-serif;
+}
+
+.container {
+	width: 100%;
+}
+
+.upper {
+	text-transform: uppercase;
+}
+
+/* Positioning */
+.vertically_centered {
+	position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.centered_text {
+	text-align: center;
+}
+
+.fixed {
+	background-attachment: fixed;
+}
+
+.cover {
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+/* buttons */
+
+.btn {
+	font-family: "Montserrat", sans-serif;
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+	color: white;
+	border: 3px solid transparent;
+	border-radius: 0;
+	-webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-lg {
+	font-size: 16px;
+	padding: 13px 34px;
+}
+
+.btn.btn-transparent {
+	background-color: transparent;
+    border: 3px solid #fff;
+}
+
+.btn.btn-white {
+	background-color: white;
+	color: black;
+}
+
+.btn.btn-colored {
+	background-color: #c69c6d;
+	color: white;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus {
+	color: white;
+	background-color: #c69c6d;
+	border-color: transparent;
+}
+
+.btn.btn-colored:hover,
+.btn:active,
+.btn:focus {
+	background-color: black;
+}
+
+a, a:hover, a:active, a:focus,
+.btn, .btn:hover, .btn:active, .btn:focus {
+	outline: 0;
+	text-decoration: none;
+}
+
+/* Dropdown */
+.dropdown {
+	position: relative;
+	width: 200px;	
+	color: #92a8d1;
+	margin: 100px auto;
+}
+
+.dropdown span {
+	line-height: 21px;
+	padding: 10px;
+}
+
+.dropdown:after {
+	content: '\25BC';
+	position: absolute;
+	right: 10px;
+
+}
+
+.dropdown:hover,
+.dropdown:active,
+.dropdown:focus {
+	color: #5d7ebb;
+}
+
+.dropdownContent {
+	display: none;
+	position: absolute;
+	width: 200px;
+	padding: 10px;
+}
+
+.dropdown:hover .dropdownContent,
+.dropdown:active .dropdownContent,
+.dropdown:focus .dropdownContent {
+	display: block;
+}
+
+.dropdownContent a {
+	padding: 10px 0;
+	padding-left: 10px;
+	display: block;
+}
+
+.dropdown:hover a:nth-child(odd),
+.dropdown:active a:nth-child(odd),
+.dropdown:focus a:nth-child(odd) {
+	background: #f7cac9;
+	color: #92a8d1;
+}
+
+.dropdown:hover a:nth-child(even),
+.dropdown:active a:nth-child(even),
+.dropdown:focus a:nth-child(even) {
+	background: #92a8d1;
+	color: #f7cac9;
+}
+
+.dropdownContent a:nth-child(odd):hover,
+.dropdownContent a:nth-child(odd):active,
+.dropdownContent a:nth-child(odd):focus {
+	background: #fce9e9;
+}
+
+.dropdownContent a:nth-child(even):hover,
+.dropdownContent a:nth-child(even):active,
+.dropdownContent a:nth-child(even):focus {
+	background: #5d7ebb;
+}

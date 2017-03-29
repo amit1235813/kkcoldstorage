@@ -987,6 +987,18 @@ footer {
 	color: #e6fbf1;
 }
 
+#footer_content p a {
+	color: #e6fbf1;
+	text-decoration: underline;
+}
+
+#footer_content p a:hover,
+#footer_content p a:active,
+#footer_content p a:focus {
+	color: #f5d5d1;
+	text-decoration: none;
+}
+
 /* back to top */
 .back_to_top {
 	width: 72px;
